@@ -1,0 +1,9 @@
+<annotation>
+	<filename>TB2IBUMhZrI8KJjy0FhXXbfnpXa_!!0-rate</filename>
+	<folder>VOC2012</folder>
+	<source>
+		<annotation>OPENIMAGE</annotation>
+		<database>2018 OPENIMAGE</database>
+		<image>OPENIMAGE</image>
+	</source>
+<object><name>Lower_Body</name><bndbox><xmax>667</xmax><xmin>343</xmin><ymax>650</ymax><ymin>142</ymin></bndbox><name>Long</name><bndbox><xmax>667</xmax><xmin>343</xmin><ymax>650</ymax><ymin>142</ymin></bndbox><name>Is_Normal_Occluded</name><bndbox><xmax>667</xmax><xmin>343</xmin><ymax>650</ymax><ymin>142</ymin></bndbox></object><object><name>Upper_Body</name><bndbox><xmax>718</xmax><xmin>398</xmin><ymax>130</ymax><ymin>1</ymin></bndbox><name>Is_Hardl_Truncated</name><bndbox><xmax>718</xmax><xmin>398</xmin><ymax>130</ymax><ymin>1</ymin></bndbox></object><object /><object /><object /><size><depth>3</depth><width>960</width><height>720</height></size></annotation>

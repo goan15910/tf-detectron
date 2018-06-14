@@ -1,0 +1,48 @@
+<annotation>
+	<filename>TB20vBhg3JkpuFjSszcXXXfsFXa_!!0-rate</filename>
+	<folder>VOC2012</folder>
+	<source>
+		<annotation>OPENIMAGE</annotation>
+		<database>2018 OPENIMAGE</database>
+		<image>OPENIMAGE</image>
+	</source>
+  <object>
+    <name>Lower_Body</name>
+    <bndbox>
+      <xmax>397</xmax>
+      <xmin>33</xmin>
+      <ymax>292</ymax>
+      <ymin>8</ymin>
+    </bndbox>
+    <name>Long</name>
+    <bndbox>
+      <xmax>397</xmax>
+      <xmin>33</xmin>
+      <ymax>292</ymax>
+      <ymin>8</ymin>
+    </bndbox>
+    <name>Is_Hardl_Truncated</name>
+    <bndbox>
+      <xmax>397</xmax>
+      <xmin>33</xmin>
+      <ymax>292</ymax>
+      <ymin>8</ymin>
+    </bndbox>
+  </object>
+  <object>
+    <name>Shoes</name>
+    <bndbox>
+      <xmax>275</xmax>
+      <xmin>224</xmin>
+      <ymax>90</ymax>
+      <ymin>34</ymin>
+    </bndbox>
+  </object>
+  <object />
+  <object />
+  <size>
+    <depth>3</depth>
+    <width>398</width>
+    <height>293</height>
+  </size>
+</annotation>

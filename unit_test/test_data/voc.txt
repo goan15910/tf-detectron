@@ -1,0 +1,5 @@
+unit_test/test_data/2007_000027.jpg unit_test/test_data/2007_000027.xml
+unit_test/test_data/2007_000032.jpg unit_test/test_data/2007_000032.xml
+unit_test/test_data/2007_000033.jpg unit_test/test_data/2007_000033.xml
+unit_test/test_data/2007_000039.jpg unit_test/test_data/2007_000039.xml
+unit_test/test_data/2007_000042.jpg unit_test/test_data/2007_000042.xml

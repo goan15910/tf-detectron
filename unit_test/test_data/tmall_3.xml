@@ -1,0 +1,56 @@
+<annotation>
+	<filename>031253</filename>
+	<folder>VOC2012</folder>
+	<source>
+		<annotation>OPENIMAGE</annotation>
+		<database>2018 OPENIMAGE</database>
+		<image>OPENIMAGE</image>
+	</source>
+  <object>
+    <name>Upper_Body</name>
+    <bndbox>
+      <xmax>335</xmax>
+      <xmin>0</xmin>
+      <ymax>115</ymax>
+      <ymin>0</ymin>
+    </bndbox>
+    <name>Do_Not_Care</name>
+    <bndbox>
+      <xmax>335</xmax>
+      <xmin>0</xmin>
+      <ymax>115</ymax>
+      <ymin>0</ymin>
+    </bndbox>
+  </object>
+  <object>
+    <name>Lower_Body</name>
+    <bndbox>
+      <xmax>271</xmax>
+      <xmin>8</xmin>
+      <ymax>394</ymax>
+      <ymin>9</ymin>
+    </bndbox>
+    <name>Long</name>
+    <bndbox>
+      <xmax>271</xmax>
+      <xmin>8</xmin>
+      <ymax>394</ymax>
+      <ymin>9</ymin>
+    </bndbox>
+    <name>Is_Normal_Occluded</name>
+    <bndbox>
+      <xmax>271</xmax>
+      <xmin>8</xmin>
+      <ymax>394</ymax>
+      <ymin>9</ymin>
+    </bndbox>
+  </object>
+  <object />
+  <object />
+  <object />
+  <size>
+    <depth>3</depth>
+    <width>336</width>
+    <height>400</height>
+  </size>
+</annotation>

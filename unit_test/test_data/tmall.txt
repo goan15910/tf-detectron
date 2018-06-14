@@ -1,0 +1,4 @@
+unit_test/test_data/tmall_1.jpg unit_test/test_data/tmall_1.xml
+unit_test/test_data/tmall_2.jpg unit_test/test_data/tmall_2.xml
+unit_test/test_data/tmall_3.png unit_test/test_data/tmall_3.xml
+unit_test/test_data/tmall_4.jpg unit_test/test_data/tmall_4.xml
